@@ -1,2 +1,7 @@
 # gojsonconf
-golang json conf loader
+A json conf loader for golang
+
+Install `gojsonconf`:
+
+    go get github.com/nymbian/gojsonconf
+
