@@ -8,4 +8,4 @@ Install `gojsonconf`:
 example:
 
     	import("github.com/nymbian/gojsonconf")
-	conf := *gojsonconf.LoadConf("conf.json")
+		conf := *gojsonconf.LoadConf("conf.json")
